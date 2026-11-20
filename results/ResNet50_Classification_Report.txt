@@ -1,0 +1,12 @@
+                 precision    recall  f1-score   support
+
+ Apple__Healthy       0.99      1.00      0.99        87
+  Apple__Rotten       1.00      0.99      0.99        68
+Banana__Healthy       1.00      1.00      1.00        88
+ Banana__Rotten       1.00      1.00      1.00        81
+Orange__Healthy       0.99      0.99      0.99        74
+ Orange__Rotten       0.98      0.98      0.98        47
+
+       accuracy                           0.99       445
+      macro avg       0.99      0.99      0.99       445
+   weighted avg       0.99      0.99      0.99       445
