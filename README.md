@@ -68,6 +68,19 @@ The dataset is divided into training, validation, and testing sets.
 
 To investigate and compare deep learning architectures for accurate and automated fruit quality inspection using computer vision.
 
+## Limitations
+
+- The classification system currently supports only apples, bananas, and oranges.
+- Images of unsupported fruits or unrelated objects may be incorrectly classified.
+- Reliable detection of unfamiliar images requires further development and validation.
+
+## Future Work
+
+- Expand the dataset with additional fruit categories.
+- Improve detection of unsupported and unfamiliar images.
+- Evaluate model performance on external datasets.
+- Explore more advanced deep learning approaches for fruit quality assessment.
+
 ---
 
 **Note:** The reported results are based on the prepared test dataset. The dataset and trained model files are not included in this repository.
