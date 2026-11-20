@@ -73,6 +73,24 @@ To investigate and compare deep learning architectures for accurate and automate
 **Note:** The reported results are based on the prepared test dataset. The dataset and trained model files are not included in this repository.
 
 
+## Experimental Results
+
+### Dataset Distribution
+![Dataset Distribution](results/Dataset_Distribution.png)
+
+### Model Accuracy Comparison
+![Model Comparison](results/Three_Model_Comparison.png)
+
+### ResNet50 Confusion Matrix
+![ResNet50 Confusion Matrix](results/ResNet50_Confusion_Matrix.png)
+
+### MobileNetV2 Confusion Matrix
+![MobileNetV2 Confusion Matrix](results/MobileNetV2_Confusion_Matrix.png)
+
+### MobileNetV3Small Confusion Matrix
+![MobileNetV3Small Confusion Matrix](results/MobileNetV3Small_Confusion_Matrix.png)
+
+
 
 
 
